@@ -30,6 +30,18 @@ An interactive dashboard for analyzing product performance, revenue trends, and 
 ---
 
 ## ⚙️ Run Locally
+
+Follow these steps to run the project on your system:
+
 ```bash
+# Clone the repository
+git clone https://github.com/Prakshityadav/Ecommerce-Dashborad.git
+
+# Navigate to project folder
+cd Ecommerce-Dashborad
+
+# Install dependencies
 npm install
+
+# Start development server
 npm run dev
